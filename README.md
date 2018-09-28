@@ -1,10 +1,10 @@
 ## Beer-detector-Semana-i
 Este archivo explica los pasos realizados para la creación del modelo detector de cervezas, la herramienta web para crear los XMLs necesarios para generar archivos TFRecords y por último la creación e implementación de el modelo exportado a CoreML para una aplicación iOS.
 
-- [Herramienta etiquetado](#beer-detector-semana-i)
-- Modelo TF
-- Implenetación CoreML
-- Autores
+- [Herramienta etiquetado](#herramienta-web-para-etiquetado-etiquetado)
+- [Modelo TF](#modelo)
+- [Implenetación CoreML](#implenetación-coreml)
+- [Autores](#autores)
 
 # Herramienta web para etiquetado #etiquetado
 Esta herramienta fue realizada en JS, HTML y CSS. Con ella se pueden generar archivos XML con el formato necesario para crear TFRecords. Además, permite descargar la misma información en JSON para poder manipular la información y convertirla a otros formatos de ser necesario e.g. formatos necesarios para YOLO y otros modelos.
