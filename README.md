@@ -16,6 +16,7 @@ Para crear el modelo, se utilizó Tensor Flow. Como modelo se escogió [mobilene
 El dataset necesario fue creado por el equipo e incrementado mediante la modificación de algunos parametros de las fotografías como la temperatura para crear más información. Este modelo fue probado también en Raspberry Pi de manera exitosa. 
 
 El repositorio se encuentra [aquí](https://drive.google.com/open?id=1VGBfodEMjlCZ6ZsxKyfoVOTxixXVbHHO)
+### No se incluyen todas la imagenes que se utilizaron para el dataset, unicamente dos ejemplos para ejemplificar la estructura de los archivos que se utilizaron. 
 
 # Implementación CoreML
 Una vez creado el modelo, se exportó a CoreML para implementarlo en iOS. Esta aplicación detecta en vivo las cervezas, identifica el tipo de cerveza, permite pausar el "live feed" para ver detenidamente la imagen. También permite cambiar entre modelos para vizualizar cual funciona mejor. Otra de sus caracteristicas es que se puede utilizar una imagen del carrete.
