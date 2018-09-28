@@ -20,7 +20,7 @@ El repositorio se encuentra [aquí](https://drive.google.com/open?id=1VGBfodEMjl
 # Implementación CoreML
 Una vez creado el modelo, se exportó a CoreML para implementarlo en iOS. Esta aplicación detecta en vivo las cervezas, identifica el tipo de cerveza, permite pausar el "live feed" para ver detenidamente la imagen. También permite cambiar entre modelos para vizualizar cual funciona mejor. Otra de sus caracteristicas es que se puede utilizar una imagen del carrete.
 
-El repositorio se encuentra [aquí](https://github.com/Alexhl09/ClasificadorCervezas)
+El repositorio se encuentra [aquí](https://github.com/Alexhl09/ClasificadorCervezas-git)
 
 # Autores
 Los integrantes de el equipo "JPVR" quienes formaron parte de la creación de este proyecto son:
